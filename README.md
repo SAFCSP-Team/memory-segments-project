@@ -37,4 +37,4 @@ int main() {
 
 ## Submission 
 - Create a new issue with the title “Answer [your-username]” and write your answer.
-- Create an issue of your questions, If you face any trouble solving the project.
+- Create an issue of your questions if you face any trouble solving the project.
