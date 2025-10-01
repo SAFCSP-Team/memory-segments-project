@@ -3,8 +3,7 @@
 The objective of this project is to apply your understanding of memory management to solve a given problem.
 
 ## Problem
-After understanding how memory management works, identify which segment each variable in a given program is stored at.
-
+After understanding how memory management works, identify which segment each variable in a given program is stored in it.
 
 ## Implementation
 Consider the following C code snippet
@@ -30,7 +29,6 @@ int main() {
 }
 
 ```
-
 1. Identify and explain where each variable in the code is stored in memory (e.g., data segment, stack, heap, code segment).
 2. Describe the output of the program when it is executed.
 3. Explain the difference between global variables, static variables, and local variables in terms of their storage and lifetime.
